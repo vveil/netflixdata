@@ -6,4 +6,10 @@ I won't share my personal data here for privacy reasons.
 
 ## TODO
 * add link to Netflix-data download page
-* complete readme with more details
+
+## How to use
+1. Get your own Netflix-data
+2. Copy ViewingActivity.csv in the same directory as this project
+3. Open jupyter-notebook-file
+4. (make any changes)
+4. Run all cells
